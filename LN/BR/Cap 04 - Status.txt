@@ -1,0 +1,253 @@
+" A propósito, você já deu uma olhada nas suas estatísticas iniciais? ", meu irmão me perguntou enquanto nos dirigíamos para o Pomar Old Reve.
+
+Pensando bem, ainda não.
+
+" Informações de status... Aqui está. " Cliquei na opção e uma nova janela apareceu exibindo minhas estatísticas.
+
+Meu nível era obviamente 0 e atualmente não tinha nenhum trabalho equipado. Isto parecia que vários trabalhos poderiam ser equipados ao mesmo tempo, e assim, além do nível para cada trabalho, havia também um nível total. Meu nível para ambos ainda era 0.
+
+As outras estatísticas exibidas foram HP, MP, SP, STR, END, DEX, AGI, e LUC. Cada um deles era bastante baixo; além de ter 98 HP e 23 SP, o resto estava tudo abaixo de 20. Não tinha nada para comparar com eles, mas essas estatísticas provavelmente eram fracas.
+
+... Mas, novamente, acho que não há como um novato no nível 0 ser forte, lembrei a mim mesmo.
+
+" Então, eu vou entrar nesta masmorra chamada ' assassino de novatos ' no nível 0, não vou ?" Eu perguntei.
+
+" Você mal passará de zero se não equipar um trabalho " , disse meu irmão. " Você quer pegar um antes de irmos? "
+
+" ...Não, parece que não temos muito tempo. Eu vou assim mesmo", eu disse.
+
+Seria insuportável se a garota da foto morresse enquanto nós estivessemos fazendo isso, pensei. O mais importante agora é velocidade.
+
+Meu irmão e eu conversamos enquanto corríamos.
+
+" Posso te perguntar algumas coisas?", Eu perguntei.
+
+" Acho que posso suportar* isso. "
+
+" Eu não vi uma estatística para INT, então quais fatores influenciam na força mágica? " Eu perguntei. " Existe mágia neste jogo, certo? " Liliana usou magia de cura, afinal.
+
+" É baseado no seu MP máximo e no nível da habilidade", disse Meu irmão. " Além disso, a quantidade total de MP que você despeja nela. E  não há estatística INT neste jogo, a propósito. Sua inteligência vai se comportar* basicamente, pois vem de você mesmo, afinal. "
+
+Isso faz sentido, pensei. Eu realmente não entenderia o que significa se você me disse que minha inteligência aumentou.
+
+" Ah, e quanto às habilidades que usam SP, a força delas não é baseada no seu SP, mas em várias outras estatísticas relacionadas, " meu irmão continuou. " Bem, essas várias estatísticas receberão ajustes do seu embrião, então sua variação será infinita. "
+
+" Isso parece complicado, " eu disse.
+
+" Se você aguentar*, tenho certeza que vai dar tudo certo! Como as coisas vão acontecer seja um reflexo passivo de sua individualidade. "
+
+...Ele está realmente entrando naqueles trocadilhos de urso, não está?
+(*O ray diz isso pois seu irmão usa varias vezes o termo bear[em ingles] que pode ser traduzido como urso, suportar, aguentar, comportar... em portugues não faz sentido, mas... )
+
+" Ah, sim. Deixe-me dar-lhe alguns acessórios que tenho. " O Mano Urso me entregou alguns itens de sua bolsa. Quando olhei para eles, eles incluíam: dez Poções de Cura que poderia facilmente me curar para o máximo de saúde, um broche salva-vidas e quatro Acessórios Dragonscale Ward(Proteção da Escama de Dragão, mas por ser um item vou deixar o nome em ingles).
+
+" O Broche salva-vidas recebe todo dano fatal, mas tem 10% de chance de quebrar " , explicou meu irmão. " Como  isso é verificado é determinado pela quantidade de dano dividido pelo seu HP. A Dragonscale Ward reduzirá o dano recebido em 90%, mas vai quebrar após um uso. "
+
+Entendo, eles parecem ser acessórios descartáveis, mas definitivamente uteis.
+
+" Este jogo tem restrições de nível e estatísticas para equipamentos " , disse meu irmão. " Então, vou ajudar você com esses acessórios, já que eles
+não tem nenhuma restrição de nível. "
+
+Existem cinco slots para equipar acessórios, então todos vão servir perfeitamente.
+
+" Obrigado, mano... Ei, isso me lembra, qual é a pena de morte neste jogo? "
+
+Pena de morte: era um recurso encontrado em muitos jogos online. Para simplificar, É algum tipo de demérito para um personagem que morreu. Eles podem perder níveis, por exemplo, ou ter suas estatísticas reduzidas por um período de tempo.
+
+Já que ele está tentando me ajudar a evitar a morte, este jogo deve ter algum tipo de pena de morte, pensei. Era por isso que eu queria perguntar a ele qual era a penalidade, mas...
+
+" Uma proibição de login de 24 horas. "
+
+A resposta que recebi foi inesperada.
+
+" ...Um o quê?", Eu perguntei.
+
+" Se você morrer neste jogo, você não conseguirá fazer login por 24 horas no tempo real, ou 72 horas no mundo do jogo " , afirmou.
+
+...Eles estão loucos? Eu pensei incrédulo. Não posso acreditar que há um jogo que não permite que você o jogue como pena de morte.
+
+" O assustador dessa penalidade não é que você não pode jogar o jogo; é que três dias se passarão no Infinite Dendrogram sem você " , disse. " Então, por exemplo, se você estiver no meio de uma missão como nós, você terá que abandonar a missão por três dias.
+
+Quando você está em um mundo tão realista quanto este..." apavorante.
+
+O que aconteceria se o Mano Urso e eu deixássemos esta missão sozinho por três dias?
+
+... A resposta para isso era muito óbvia.
+
+" Vou acompanhá -lo e tentar não morrer " , eu disse. " Não tenho certeza de quão útil serei no nível 0, no entanto. "
+
+Ou melhor, não serei de nenhuma utilidade.
+
+" A propósito, como mencionei antes, o Pomar Old Reve é uma masmorra armadilha, conhecida como o ' assassino de novatos '" , disse meu irmão. " Inocente novatos iniciando o Dendro sem nenhum conhecimento prévio entram na masmorra dizendo: ' Sim, vou fazer uma aventura aqui perto ' e então é  fim do jogo, eles tem suas bundas chutadas, são espancados. Eles são mortos instantaneamente e não conseguem fazer login por um dia inteiro. "
+
+É como uma máquina geradora de traumas.
+
+" No entanto, é estranho. Por que o nível de dificuldade é 5? Baseado no níveis dos monstros na masmorra... é muito alto. "
+
+Enquanto ouvia meu irmão murmurar isso, passamos pelo Portão Sul da Capital Real Altea.
+
+◇
+
+O pomar estava localizado a cerca de dez minutos de distância do Portão Sul. 
+
+Era cercada por uma cerca de metal e um uma placa na entrada dizendo: " Bem-vindo ao Campo Reve . " O lugar, no entanto, parecia há muito abandonado. 
+
+As plantas cresceram selvagens, e a cor da placa havia desaparecido.
+
+" Bem, então é hora de invadir, mas... " Meu irmão parou na frente da entrada do Pomar Old Reve, que agora era um antro de monstros do tipo inseto . Logo em seguida, uma nova janela apareceu diante de mim.
+
+" Pedido de grupo de Shu Starling.
+
+Você quer se juntar a este grupo? Sim / Não "
+
+" Será mais fácil proteger você se eu puder rastrear constantemente seu status, " ele disse.
+
+" Ok, entendi. " Cliquei em " Sim " na janela e, assim que o fiz, uma tela se abriu mostrando o status do nosso grupo. o nome do meu irmão tinha sido adicionado a ele também.
+
+Há espaço na tela do grupo para mais quatro jogadores, então este o jogo deve ter um limite máximo de grupo de seis jogadores.
+
+Exibido junto com o nome do meu irmão também estavam suas estatísticas.
+
+No entanto...
+
+" O que está acontecendo com isso?", Eu perguntei.
+
+Na tela de status do meu irmão , tudo menos o nome dele estava apagado, incluindo até mesmo seu nível e HP.
+
+" Ah. Essa é a capacidade de ocultação deste traje " , disse ele. " Se houver diferença de nível entre mim e um inimigo ou aliado, então eles não podem enchergar minhas estatísticas. "
+
+Que tipo de habilidade é essa? Eu pensei. Isso torna mais difícil ajudar com magia de suporte... Não que eu tenha alguma... Ah, isso lembra.
+
+" Ei mano, não tive a chance de perguntar isso por causa da missão, mas por que você está vestindo uma fantasia de urso?", Eu perguntei.
+
+Meu irmão esfregou os olhos de sua fantasia com os dedos de urso.
+
+" É uma história que vai nos deixar em lágrimas. "
+
+" Estamos meio ocupados, então se apresse e responda à minha pergunta", eu disse .
+
+" Meu irmãozinho está me olhando tão friamente... " ele resmungou para si mesmo, antes de gradualmente começar a falar. " Então, você sabe como há uma parte onde você cria seu personagem, certo? "
+
+" Sim. "
+
+" Foi difícil fazer do zero, então tentei fazer usando meu eu real como base."
+
+" Eu também. "
+
+" Bem, eu cometi um pequeno erro... "
+
+" Um erro... " comecei. " O que você fez? "
+
+" Eu acidentalmente confirmei sem fazer nenhuma alteração. "
+
+" ...Ah cara. "
+
+Então, em outras palavras, dentro do traje estava, o rosto e a aparência reais do meu irmão. Jogar um jogo online com seu rosto real era algo arriscado para fazer. Isso foi especialmente verdadeiro no caso de meu irmão.
+
+Sim, com isso você não teria escolha a não ser usar algo como um disfarce.
+
+" A propósito, a razão pela qual escolhi este reino é porque vi um loja na capital vendendo fantasias " , disse.
+
+" Ah, então é por isso que você não foi a algum lugar mais próximo seus gostos, como Dryfe ou Granvaloa, " eu disse.
+
+" Tempos drásticos exigiam medidas drásticas... Ah, e a propósito, o traje número um custou 4.980 lirs. "
+
+" Isso é quase todo o valor inicial!", Eu chorei. Quanto exatamente ele conseguiu no começo?!
+
+" Além disso, foi uma piada sem defesa " , disse ele. " eu era um dos primeiros jogadores, então não havia informações disponíveis. 
+
+Realmente, desde aquele começo sem esperança, tem sido um caminho cheio de dificuldades até que eu consegui pegar este traje. "
+
+" Então, quais habilidades isto ai tem?" Eu perguntei.
+
+" Dê uma olhada. "
+
+" Ultimate Suit Series: Urso rustico
+
+Armadura lendária antiga
+
+DEF +903 (alto pra urso)
+
+Habilidades:
+
+Disfarce: esconde completamente suas estatísticas de qualquer pessoa com um nível total de 100 a menos que o seu.
+
+AC(ar condicionado) embutido: um AC embutido projetado para qualquer ambiente. A temperatura perfeita a qualquer hora, em qualquer lugar.
+
+Assistencia de Força: suporta o movimento com motores musculares. STR +903.
+
+Feito à prova de balas: capaz de suportar até fogo cruzado. reduz dano de ataques físicos à distância em 903.
+
+Feito a Prova de Facadas: sinta-se seguro mesmo nos dias com muitos assassinos. Reduz o dano de ataques físicos de curto alcance em 903.
+
+Mãos de urso utilitárias: misteriosamente, essas mãos podem agarrar coisas, e elas podem ser usadas com muita habilidade. Maior dano a peixes e monstros insetos.
+
+"????", ... 
+
+O que há com esse item com status excessivamente altos?
+
+" O que  +903 (alto pra urso) ' quer dizer? Eu perguntei. " É realmente tão alto quanto isso implica, embora? Espere, em que nível você está enfim, mano urso? "
+
+Não consigo ver suas estatísticas agora, então, pelo menos, seu total nível deve ser superior a 100, mas...
+
+" Isso é um Se-gre-do de urso, " ele disse.
+
+Cara, isso é irritante.
+
+" Tudo bem então, chega de nossa esquete cômica por enquanto. vamos salvar a garota. "
+
+" ...Cerca de 90% do material veio de você, Mano Urso, mas eu concordo, " eu disse. " Vamos . "
+
+Entramos np Pomar Old Reve. Uma vez lá dentro, seguimos um caminho de ervas daninhas e sinais quebrados. Em uma das placas estava escrito:
+
+" 500 metels para campo de remberry. "
+
+" Acho que isso significa 500 metros? Eu perguntei.
+
+" Muito fácil de entender, não é ? " meu irmão concordou. " Também...
+você notou? "
+
+" ...O som, né? Eu perguntei. " Eu tenho ouvido isso faz um tempo já"
+
+Da direção que a placa apontava, eu podia ouvir sons conflitantes e os gritos de algo inumano. Eu não conseguia ver nada devido a todas as plantas no caminho; entretanto, Liliana, que havia entrado na masmorra à nossa frente, estava sem dúvida lutando contra alguma coisa.
+
+Foi quando percebi que o som da batalha só poderia ser ouvido do campo de remberry, enquanto em todos os outros lugares estava quietos.
+
+" Não há outros jogadores aqui? Eu perguntei.
+
+" Ahh, tem muita gente com trauma dessa masmorra, " disse meu irmão. " Além disso, os itens e materiais que você podem reunir nesses níveis também não são tão bons . Também os insetos ataque em enxames, e muitos deles podem causar Poison ou Paralyze, então um atidoto para efeitos de status é obrigatório. "
+
+Acho que é o que você chamaria de um campo de caça impopular.
+
+" Bem, graças a isso, fica mais fácil para mim lutar... " meu
+irmão murmurou. " Baldr, ative na segunda forma. "
+
+" Pronto. " Uma voz eletrônica que eu não tinha ouvido antes respondeu a ele. As costas da mão esquerda de meu irmão começaram a brilhar através de sua traje, e então algo de repente voou para fora dele. a silhueta de urso, agora tinha as seguintes estranhas adições a ela: um anel em forma tambor de arma, um mecanismo motorizado para recarga rápida, uma cinto de munições e uma arma gigante em forma de tambor. Bem ali na minha frente estava uma arma de fogo pesada conhecida como Metralhadora Gatling.
+
+" ...Este jogo não deveria ser basicamente baseado em fantasia?", Eu perguntei.
+
+Continua...
+
+Nota do Tradutor LorD:
+
+Excluindo informações sobre habilidades, o status básico é dividido em 8 categorias; HP , MP , SP , STR , AGI , END , DEX e LUC .
+
+HP - representa vitalidade e diminui ao receber dano, e quando chega a 0, a entidade (Player, Tian, Mob...) morre.
+
+MP - representa o poder mágico incorporado. É consumido ao usar feitiços e habilidades que requerem poder mágico. O valor do MP tem efeito sobre efeitos mágicos, resistência a debuffs mentais anormais e fadiga, que ocorre conforme o MP diminui.
+
+SP - representa o poder da alma. É consumido para usar habilidades como aquelas de fortalecimento corporal ou habilidades de armas/técnicas. O valor de SP tem um efeito na resistência a debuffs mentais anormais.
+
+STR - representa a pura força muscular de um corpo. Afeta o poder de ataque e as habilidades de ataque físico, por exemplo, quando STR é aumentado em 10 vezes, o poder de ataque é multiplicado por 10. Se STR for 1.000, então 100 vezes a gravidade pode ser resistida. No entanto, quando são usadas habilidades que aumentam o poder de ataque, o STR não aumenta. O corpo de uma pessoa pode lidar com o impacto de um ataque usando seu próprio STR.
+
+AGI - representa a agilidade, os reflexos e a velocidade de pensamento de uma entidade. Quanto maior o AGI de uma entidade, mais lentamente ela experimentará o movimento ao seu redor. A velocidade de uma pessoa é calculada com uma fórmula especial que inclui o AGI, já que o AGI não se adapta exatamente à velocidade de uma pessoa. Quando o AGI de uma pessoa excede 10.000, ela pode se mover em velocidades supersônicas e a fórmula é simplificada com a escala AGI exatamente para a velocidade de uma pessoa. Um atacante baseado em AGI puro só precisava de cerca de um décimo do valor de END de seu AGI para resistir ao recuo de seus ataques super-rápidos, mas apenas por curtos períodos de tempo.
+
+END - representa a durabilidade ou resistência do corpo. Afeta o poder de defesa, resistência a efeitos de status do tipo ferimento e resistência a repulsão. Quando o END de uma pessoa atinge um certo nível, armas como facas serão incapazes de perfurar a pele, mas a menos que uma pessoa tenha uma habilidade de resistência a danos, não importa o quão alto seu END seja em relação ao ataque de um oponente, ela receberá pelo menos 1 ponto de dano.
+
+DEX - representa a destreza de uma pessoa. Afeta principalmente a taxa de sucesso das habilidades do tipo produção, habilidades de armas de longo alcance e certas habilidades de combate corpo a corpo. Também afeta as habilidades de pilotagem de veículos.
+
+LUC - representa a boa sorte de uma pessoa. Afeta apenas as taxas de queda de itens e os efeitos de certas habilidades. Por isso, ao contrário das outras categorias, a menos que envolva determinados trabalhos, o LUC quase não aumenta em relação ao valor inicial.
+
+Curiosidade:
+
+    Normalmente, quanto maior a criatura (excluindo humanos), maior a quantidade de HP que possuem.
